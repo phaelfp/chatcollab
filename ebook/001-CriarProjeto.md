@@ -50,12 +50,12 @@ ls -la
 Terá uma resposta similar a esta no terminal:
 ```bash
 total 32
-drwxr-xr-x 4 marcobuno marcobuno 4096 Feb 23 16:34 ./
-drwxr-xr-x 3 marcobuno marcobuno 4096 Feb 23 16:33 ../
-drwxr-xr-x 7 marcobuno marcobuno 4096 Feb 23 16:34 .git/
--rw-r--r-- 1 marcobuno marcobuno  253 Feb 23 15:58 .gitignore
--rw-r--r-- 1 marcobuno marcobuno  364 Feb 23 15:58 index.html
--rw-r--r-- 1 marcobuno marcobuno  327 Feb 23 15:58 package.json
-drwxr-xr-x 2 marcobuno marcobuno 4096 Feb 23 15:58 src/
--rw-r--r-- 1 marcobuno marcobuno  162 Feb 23 15:58 vite.config.js
+drwxr-xr-x 4 marcobruno marcobruno 4096 Feb 23 16:34 ./
+drwxr-xr-x 3 marcobruno marcobruno 4096 Feb 23 16:33 ../
+drwxr-xr-x 7 marcobruno marcobruno 4096 Feb 23 16:34 .git/
+-rw-r--r-- 1 marcobruno marcobruno  253 Feb 23 15:58 .gitignore
+-rw-r--r-- 1 marcobruno marcobruno  364 Feb 23 15:58 index.html
+-rw-r--r-- 1 marcobruno marcobruno  327 Feb 23 15:58 package.json
+drwxr-xr-x 2 marcobruno marcobruno 4096 Feb 23 15:58 src/
+-rw-r--r-- 1 marcobruno marcobruno  162 Feb 23 15:58 vite.config.js
 ```
