@@ -2,10 +2,10 @@
 
 O objetivo desse curso é preparar as pessoas para um ambiente que trabalhe com Squads utilizando React. Normalmente quando temos times focados em partes do produto e comum a adoção da arquitetura de Micro FrontEnd.
 
-Layout no Figma [CollabChat.fig](https://github.com/phaelfp/chatcollab/raw/main-with-figma/CollabChat.fig)
+Layout no Figma [CollabChat.fig](https://github.com/phaelfp/chatcollab/raw/main/CollabChat.fig)
 
 ## Um gif do layout 
-![Amostra do Layout](https://raw.githubusercontent.com/phaelfp/chatcollab/main-with-figma/layout.gif)
+![Amostra do Layout](https://raw.githubusercontent.com/phaelfp/chatcollab/main/layout.gif)
 
 ## Squads
 * Account
